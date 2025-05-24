@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name": "Admin",
+        "email": "admin@example.com",
+        "password": "scrypt:32768:8:1$2C7KxcoB1Slsayzu$0d7bfe6f65ed60c464d8e8acbc32e1476b58d9c7eb58531689e01c1a7f217549a6a9a2c2e941c0a5cdea7c8ae096326474ded85d0044ff78ca09d9baf327be02",
+        "is_admin": true
+    },
+    {
+        "id": 2,
+        "name": "eko",
+        "email": "ekodage@gmail.com",
+        "password": "pbkdf2:sha256:1000000$C5AUFA6JihLA3DQx$45100f2875e96110f64cc1ed2665eb47d40d6496e077930a91b567755ac9cc9e",
+        "is_admin": false
+    }
+]
