@@ -55,6 +55,8 @@ Ziyaretçilerin temel müze bilgilerine ulaşabileceği ve ziyaretlerini planlay
 ---
 
 ## 📁 Proje Yapısı
+
+```text
 FIRSTWEEK/
 ├── pycache/
 ├── instance/
@@ -78,6 +80,7 @@ FIRSTWEEK/
 ├── requirements.txt # Python bağımlılıkları
 ├── users.json # Kullanıcı verisi
 ├── visitors.json # Ziyaretçi verisi
+```
 
 ---
 
